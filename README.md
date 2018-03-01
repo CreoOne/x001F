@@ -6,6 +6,8 @@ CSS GRID FRAMEWORK
 ```html
 <div class="1/3"></div>
 ```
+![chrome_sample](./chrome_20180301_x001F.png "Window of Google Chrome browser with black area representing one-third of available screen space.")
+  
 ---
 ### Hops
 | IE | Edge | FF   | Chrome | Safari | Opera |
