@@ -9,10 +9,12 @@ CSS GRID FRAMEWORK
 ![chrome_sample](./chrome_20180301_x001F.png "Window of Google Chrome browser with black area representing one-third of available screen space.")
   
 ---
-### Hops
+### Hops on
 | IE | Edge | FF   | Chrome | Safari | Opera |
 |----|------|------|--------|--------|-------|
 | 9+ | 12+  | 3.5+ | 4+     | 3.2+   | 10.1+ |
+  
+~~if doesn't work step up your browser game~~  
+  
 ---
-~~IF DOESN'T WORK STEP UP YOUR BROWSER GAME~~  
-*(I WROTE THIS OUT OF FRUSTRATION OVER BLOATED CSS POEMS PROMISING VENTURE FUNDING FROM HEAVEN)*
+*(I wrote this out of frustration over bloated CSS poems promising venture funding from heaven.)*
