@@ -18,4 +18,4 @@ CSS GRID FRAMEWORK
 ~~if doesn't work step up your browser game~~  
   
 ---
-*(I wrote this out of frustration over bloated CSS poems promising venture funding from heaven.)*
+*(I wrote this out of frustration over bloated CSS poems.)*
